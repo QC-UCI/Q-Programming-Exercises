@@ -1,5 +1,7 @@
 *** Exercise Set 1: Basic Exercises ***
 
-There are two .ipynb files - Exercise_Set_1 and Exercise_Set_1_Solutions. The first contains 4 exercises, and each exercise except the fourth one is followed by a checker which prints either "Congratulations!" or "Incorrect Code" based on the correctness of your code. The solutions for the exercises are in the second file. I encourage you to first try the exercises before looking at the solution. Given the exercises are in a .ipynb file and your editor is most likely Jupyter Notebook, you are empowered to write code and print anything out - whether it be debug lines or intermediate steps. Please let us know if you do find a mistake in either file. We try our best to make these files error-free, but occassionally we make mistakes. 
+There are 2 files named Bell_States_Exercise.ipynb and Bell_States_Solutions.ipynb. In the first file, you are able to build the four Bell States, and the second file has the solutions. There are also two .ipynb files - Exercise_Set_1 and Exercise_Set_1_Solutions. The first contains 4 exercises, and each exercise except the fourth one is followed by a checker which prints either "Congratulations!" or "Incorrect Code" based on the correctness of your code. The solutions for the exercises are in the second file. I encourage you to first try the exercises before looking at the solution. Given the exercises are in a .ipynb file and your editor is most likely Jupyter Notebook, you are empowered to write code and print anything out - whether it be debug lines or intermediate steps. 
+
+Please let us know if you do find a mistake in either file. We try our best to make these files error-free, but occassionally we make mistakes. 
 
 Hope you enjoy the exercises! Good Luck!
