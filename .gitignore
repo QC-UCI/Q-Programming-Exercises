@@ -1,5 +1,5 @@
 *notes.txt
 *.DS_Store
-*.ipynb-checkpoints
+*.ipynb-checkpoints/
 *vscode/
 node_modules/
